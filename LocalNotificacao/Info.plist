@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocalNotificationUsageDescription</key>
+	<string>igi</string>
+	<key>NSRemoteNotificationUsageDescription</key>
+	<string>oiuhio</string>
+	<key>NSCameraUsageDescription</key>
+	<string>dfsdf</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>jknsdfd</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>dsdsd</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>kgk</string>
+	<key>Privacy — Calendars Usage Description</key>
+	<string>rfrfr</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Connectivity</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_example-color._udp</string>
+		<string>_example-color._tcp</string>
+	</array>
+</dict>
+</plist>
